@@ -1,6 +1,6 @@
-# Projet Info3 P2 S1
-
 # Projet CYMeteo
+## Projet C P2 S1
+
 
 Application permettant de générer des graphiques météo à partir d'un fichier de données trié par un programme C et à l'aide d'un script.
 
