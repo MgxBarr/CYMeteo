@@ -1,12 +1,6 @@
 # Projet Info3 P2 S1
-# swifties
 
-Barrouillet Margaux <br />
-Chevillotte Thomas <br />
-Orecchioni Marc-Antoine <br />
-
-
-# Projet de Cy-Météo
+# Projet CYMeteo
 
 Application permettant de générer des graphiques météo à partir d'un fichier de données trié par un programme C et à l'aide d'un script.
 
